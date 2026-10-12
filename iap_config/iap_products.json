@@ -1,0 +1,19 @@
+{
+  "app": "DuetTalk",
+  "package": "com.DuetTalkMNG.DuetTalk",
+  "remoteConfig": "https://api2.blwsmartware.net/N305.json",
+  "products": [
+    { "productId": "dt_pack_1", "type": "consumable", "stars": 50, "name": "DuetTalk Coin Pack 1" },
+    { "productId": "dt_pack_2", "type": "consumable", "stars": 100, "name": "DuetTalk Coin Pack 2" },
+    { "productId": "dt_pack_3", "type": "consumable", "stars": 200, "name": "DuetTalk Coin Pack 3" },
+    { "productId": "dt_pack_4", "type": "consumable", "stars": 350, "name": "DuetTalk Coin Pack 4" },
+    { "productId": "dt_pack_5", "type": "consumable", "stars": 500, "name": "DuetTalk Coin Pack 5" },
+    { "productId": "dt_pack_6", "type": "consumable", "stars": 750, "name": "DuetTalk Coin Pack 6" },
+    { "productId": "dt_pack_7", "type": "consumable", "stars": 1000, "name": "DuetTalk Coin Pack 7" },
+    { "productId": "dt_pack_8", "type": "consumable", "stars": 1500, "name": "DuetTalk Coin Pack 8" },
+    { "productId": "dt_pack_9", "type": "consumable", "stars": 2200, "name": "DuetTalk Coin Pack 9" },
+    { "productId": "dt_pack_10", "type": "consumable", "stars": 3000, "name": "DuetTalk Coin Pack 10" },
+    { "productId": "dt_remove_ads", "type": "non-consumable", "stars": 0, "name": "DuetTalk Remove Ads" },
+    { "productId": "dt_pro", "type": "non-consumable", "stars": 0, "name": "DuetTalk Pro" }
+  ]
+}
